@@ -1,4 +1,4 @@
-python-Kharah
-=============
+Kharah
+=
 
 Simple secure websocket pipeline
